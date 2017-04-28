@@ -107,6 +107,7 @@ There are a couple of ways to go about doing this, but the simplest is this:
 * [Grey Ghost's Solution(Easy)](https://github.com/Grey-Ghost/google-homepage) | [View in browser](https://grey-ghost.github.io/google-homepage/)
 * [Gabriela Bauzá's Solution (Easy)](https://github.com/gbauza7/google-homepage) | [View in browser](https://gbauza7.github.io/google-homepage)
 * [Tom FD's solution (Easy)](https://github.com/Managatrix/google-homepage) | [View in browser](https://managatrix.github.io/google-homepage/)
+* Qin's solution (Easy and Difficult) [(https://github.com/hyathynth/google-homepage)]
 * Ananda Muhit's solution (Easy) [(https://github.com/AnandaMuhit/google-homepage)]
 * Javier Reinoso solution (Easy)[(https://github.com/JavoFrola/google-home-easy)]
 * [ElfieR solution(easy)](https://github.com/elfie-r/google-homepage) | [View in browser](https://elfie-r.github.io/google-homepage/)
